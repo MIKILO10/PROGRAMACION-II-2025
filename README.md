@@ -92,9 +92,9 @@ Cada carpeta de TP incluirá lo siguiente:
 
 ## 👨‍💼 Autor
 
-| 👤 Nombre            | 🔗 GitHub                                    | ✉️ Correo                      |
-| -------------------- | -------------------------------------------- | ------------------------------ |
-| Gonzalo Mamani López | [@tu-usuario](https://github.com/tu-usuario) | gonzalomamani.ucse10@gmail.com |
+| 👤 Nombre            | 🔗 GitHub                                | ✉️ Correo                      |
+| -------------------- | ---------------------------------------- | ------------------------------ |
+| Gonzalo Mamani López | [@mikilo10](https://github.com/mikilo10) | gonzalomamani.ucse10@gmail.com |
 
 ---
 
