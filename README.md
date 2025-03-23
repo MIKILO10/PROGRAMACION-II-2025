@@ -1,3 +1,5 @@
+![Banner](banner-programacion-ii-2025.png)
+
 # 💻 Programación II - 2025
 
 ![UCSE Logo](https://www.ucse.edu.ar/wp-content/uploads/2019/12/UCSE.png)
