@@ -1,0 +1,55 @@
+img {
+  padding: 20px 20px 20px 0px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  color: #000;
+}
+
+.container-parrafo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.lista {
+  list-style-type: none;
+  padding: 0;
+  margin: 5px 0 15px 50px;
+}
+
+.lista li {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.lista p {
+  font-size: 16px;
+}
+
+h2 {
+  margin-left: 50px;
+}
+
+.receta-parrafo {
+  font-size: 18px;
+  line-height: 1.7;
+  text-align: justify;
+  margin: 20px;
+  padding: 20px;
+  margin-left: 30px;
+}
